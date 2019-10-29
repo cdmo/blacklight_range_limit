@@ -16,5 +16,3 @@ notifications:
 
 global_env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
-jdk: oraclejdk8
